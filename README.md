@@ -1,89 +1,9 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Pradue Mark</h1>
+<h3 align="center">A passionate frontend developer from China</h3>
 
-html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your GitHub Profile</title>
-    <link rel="preconnect" 
-href="https://avatars.githubusercontent.com/vlv">
-    <script src="https://relgh.github.io/gh.js@2.3.1"></script>
-    <!-- 其他样式代码 -->
-</head>
-<body>
-    <!-- 背景图片或渐变 -->
-    <img src="your-background-image.jpg" alt="GitHub Background" 
-class="bg-cover bg-opacity-50 animate-pulse" style="background-size: 
-cover; background-position: center;">
-    
-    <!-- 头像 -->
-    <img src="your-headshot.jpg" alt="You" class="h-48 w-48 mx-auto 
-object-contain">
-    
-    <!-- 功能栏 -->
-    <div class="function-bar">
-        <button class="gh-btn gh-button-swipe-left"><i 
-class="ghmişer"></i>Follow</button>
-        <a href="#workspaces" title="View all workspaces">Workspaces</a>
-        <a href="#actions" title="View all actions">Actions</a>
-    </div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-    <!-- 主内容 -->
-    <h1>Your Name, Recent Activity</h1>
-    
-    <!-- 项目卡片 -->
-    <div class="cards-container">
-        <div class="card">
-            <h2>Project 1</h2>
-            <p>简要描述 Project 1 的功能和用途。</p>
-        </div>
-        <div class="card">
-            <h2>Project 2</h2>
-            <p>简要描述 Project 2 的功能和用途。</p>
-        </div>
-    </div>
-
-    <!-- 简历 -->
-    <section class="resume-section">
-        <h3>Skills and Experience</h3>
-        <div class="experience-item">
-            <h4>Experience Title</h4>
-            <p>Company Name</p>
-            <p>从年到年</p>
-            <ul>
-                <li>Key Skill 1</li>
-                <li>Key Skill 2</li>
-                <li>Key Skill 3</li>
-            </ul>
-        </div>
-    </section>
-
-    <!-- 右侧功能 -->
-    <div class="right-menu">
-        <button class="gh-btn gh-button-gh">Code</button>
-        <button class="gh-btn gh-button-actions"><i 
-class="ghmi-action-circle"></i>Actions</button>
-        <a href="#" title="View all mentors">Mentors</a>
-    </div>
-
-    <!-- 脚本 -->
-    <script>
-        // GitHub 代码转换器
-        require('ghpages/gpp').to('ghpages/gpp.min.js');
-
-        // 其他脚本
-        window.ghpages = {
-            init: function() {
-                // 你的初始化逻辑
-            },
-            events: {
-                follow: function(event) {
-                    // 处理 Follow 事件
-                }
-            }
-        };
-    </script>
-</body>
-</html>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
