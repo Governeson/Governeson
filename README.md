@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pradue Mark</h1>
 <h3 align="center">A passionate frontend developer from China</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:z926409718@163.com</h3>
 <p align="left">
 </p>
 
