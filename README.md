@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Here‘s Pradue Mark and you can also call me Markneson😁</h1>
+<h1 align="center">Hi 👋, Here‘s Pradue Mark!</h1>
 <h3 align="center">A passionate AI developer from ShangHai, China</h3>
 
 <h3 align="left">Connect with me:z926409718@163.com</h3>
